@@ -1,4 +1,4 @@
 ---
 brand: "Brim Soft LLC"
-menuText: "メニュー "
+menuText: "Цэс"
 ---
