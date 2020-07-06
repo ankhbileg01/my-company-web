@@ -4,7 +4,7 @@ header: "Our vendors"
 subheader: "Our solutions and products are backed by efficient after-sales support."
 portfolios: [
   {
-    imageFileName: "portfolio/01-thumbnail.jpg",
+    imageFileName: "portfolio/microsoft.png",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Microsoft",
     subheader: "Office 365",
@@ -12,7 +12,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
+    imageFileName: "portfolio/extreme.png",
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Extreme Networks",
     subheader: "Router and switches",
@@ -20,7 +20,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
   },
   {
-    imageFileName: "portfolio/03-thumbnail.jpg",
+    imageFileName: "portfolio/grandstream.png",
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Grandstream",
     subheader: "IP Voice and video",
@@ -28,7 +28,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
   },
   {
-    imageFileName: "portfolio/04-thumbnail.jpg",
+    imageFileName: "portfolio/jabra.png",
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Jabra",
     subheader: "Business headphones",
@@ -36,7 +36,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileName: "portfolio/sangoma.png",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Sangoma",
     subheader: "Business phone system",
@@ -44,7 +44,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
   {
-    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileName: "portfolio/blackmagic.png",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "BlackMagicDesign",
     subheader: "Davinchi Resolve",

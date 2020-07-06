@@ -4,7 +4,7 @@ header: "ポートフォリオ"
 subheader: "あなたは偶然断然その持通り"
 portfolios: [
   {
-    imageFileName: "portfolio/01-thumbnail.jpg",
+    imageFileName: "portfolio/microsoft.png",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Microsoft",
     subheader: "Office 365",
@@ -12,7 +12,7 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Threads", "カテゴリ: Illustration"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
+    imageFileName: "portfolio/extreme.png",
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Extreme Networks",
     subheader: "Сүлжээний төхөөрөмжүүд",
@@ -20,7 +20,7 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: Graphic Design"]
   },
   {
-    imageFileName: "portfolio/03-thumbnail.jpg",
+    imageFileName: "portfolio/grandstream.png",
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Grandstream",
     subheader: "IP утас болон PBX",
@@ -28,7 +28,7 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
   },
   {
-    imageFileName: "portfolio/04-thumbnail.jpg",
+    imageFileName: "portfolio/jabra.png",
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Jabra",
     subheader: "Бүх төрлийн чихэвч",
@@ -36,7 +36,7 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Lines", "カテゴリ: Branding"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileName: "portfolio/sangoma.png",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Sangoma",
     subheader: "Дотуур холбооны шийдэл",
@@ -44,7 +44,7 @@ portfolios: [
     extraInfo: ["日付： January 2017", "クライエント: Southwest", "カテゴリ: Website Design"]
   },
   {
-    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileName: "portfolio/blackmagic.png",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "BlackMagicDesign",
     subheader: "Кино камер, лиценз",
