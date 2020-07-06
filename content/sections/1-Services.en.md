@@ -6,17 +6,18 @@ services: [
   {
     iconName: "ShoppingCartIcon",
     header: "Software",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "We provides end-to-end system integration solutions custom-designed to meet every possible business need, both now and in the future."
   },
   {
     iconName: "LaptopIcon",
     header: "Hardware",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Our product portfolio spans the entire range of IT-related components, from computers to networking products, storage devices."
   },
   {
     iconName: "LockIcon",
     header: "IT Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "We offer complete solutions in VoIP system,network integration, network security.
+"
   }
 ]
 ---
