@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
-jumpToAnchor: "サービス"
-jumpToAnchorText: "詳しくへ"
+header: "We're serious about changes"
+subheader: "Brim Soft LLC"
+imageFileName: "header-bg1.jpg"
+jumpToAnchor: "Үйлчилгээ"
+jumpToAnchorText: "Цааш үзэх"
 ---

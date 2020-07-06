@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
+header: "We're serious about changes"
+subheader: "Brim Soft LLC"
+imageFileName: "header-bg1.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"
 ---

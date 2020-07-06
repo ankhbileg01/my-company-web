@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Brim Soft LLC"
 menuText: "メニュー "
 ---
