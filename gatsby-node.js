@@ -65,7 +65,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 /**
  * generate i18n top pages
  */
-exports.createPages = ({, actions: { createPage } }) => {
+exports.createPages = ({graphql, actions: { createPage } }) => {
   const topIndex = path.resolve("./src/templates/top-index.jsx");
 
   return new Promise((resolve, reject) => {
