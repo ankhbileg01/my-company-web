@@ -1,5 +1,5 @@
 ---
-anchor: "Portfolio"
+anchor: "Vendors"
 header: "Our vendors"
 subheader: "Our solutions and products are backed by efficient after-sales support."
 portfolios: [

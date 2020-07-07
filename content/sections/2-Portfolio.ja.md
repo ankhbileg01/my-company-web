@@ -1,7 +1,7 @@
 ---
-anchor: "ポートフォリオ"
-header: "ポートフォリオ"
-subheader: "あなたは偶然断然その持通り"
+anchor: "Хамтрагч"
+header: "Бидний хамтран ажилладаг брэндүүд"
+subheader: "Бүх програм хангамж, төхөөрөмжинд худалдан авалтын дараах үйлчилгээ дагалдана."
 portfolios: [
   {
     imageFileName: "portfolio/microsoft.png",
