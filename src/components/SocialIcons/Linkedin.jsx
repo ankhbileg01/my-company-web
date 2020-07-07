@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import CircleIcon from "components/CircleIcon";
 
 const Linkedin = ({ userName }) => (
-  <CircleIcon href={`https://linkedin.com/in/${userName}`} iconName="LinkedinIcon" />
+  <CircleIcon href={`https://linkedin.com/company/brimsoft`} iconName="LinkedinIcon" />
 );
 
 Linkedin.propTypes = {

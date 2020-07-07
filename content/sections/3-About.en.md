@@ -9,7 +9,7 @@ timeline: [
     subheader: "Our Humble Beginnings",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
-  <!---{
+  {
     imageFileName: "about/2.jpg",
     header: "March 2011",
     subheader: "An Agency is Born",
