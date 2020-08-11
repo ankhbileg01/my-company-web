@@ -28,4 +28,4 @@ Client.defaultProps = {
   href: null,
 };
 
-export default Client;
+export default Clients;
