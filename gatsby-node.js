@@ -42,12 +42,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     `type TeamMember {
       social: Social
     }`,
-    `type Service {
-      iconName: String
-      imageFileName: String
-      header: String
-      content: String
-    }`,
+   
     `
     type Social {
       twitter: String
