@@ -1,5 +1,5 @@
 ---
-"Brim Soft 2020"
+copyright: "Brim Soft 2020"
 social: {
   twitter: "#",
   facebook: "#",
