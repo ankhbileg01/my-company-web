@@ -5,7 +5,7 @@ social: {
   facebook: "#",
   medium: "#"
 }
-p
+
 termsText: "Ulaanbataar Mongolia"
 
 ---
