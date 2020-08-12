@@ -3,10 +3,7 @@ copyright: "Brim Soft LLC 2020"
 social: {
   twitter: "#",
   facebook: "#",
-  medium: "#"
+  instagram: "#"
 }
-privacyText: "Privacy Policy"
-privacyHref: "#!"
-termsText: "Terms of Use"
-termsHref: "#!"
+
 ---
