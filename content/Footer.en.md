@@ -3,7 +3,7 @@ copyright: "Brim Soft LLC 2020"
 social: {
   twitter: "#",
   facebook: "#",
-  instagram: "#"
+  Linkedin: "#"
 }
 
 termsText: "Ulaanbataar Mongolia"
