@@ -66,7 +66,7 @@ export const query = graphql`
             medium
             twitter
           }
-          subheader
+         
           
           telephone
           termsHref
