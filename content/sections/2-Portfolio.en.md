@@ -12,7 +12,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
-    imageFileName: "portfolio/extreme.png",
+    imageFileName: "portfolio/extreme.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Extreme Networks",
     subheader: "Router and switches",
