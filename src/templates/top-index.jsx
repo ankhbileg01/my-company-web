@@ -67,18 +67,7 @@ export const query = graphql`
             twitter
           }
           subheader
-          teamMember {
-            header
-            imageFileName
-            social {
-              facebook
-              github
-              linkedin
-              medium
-              twitter
-            }
-            subheader
-          }
+          
           telephone
           termsHref
           termsText
