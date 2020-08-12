@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Brim Soft LLC 2020"
 social: {
   twitter: "#",
   facebook: "#",
