@@ -1,7 +1,7 @@
 ---
 header: "We're serious about changes"
 subheader: ""
-imageFileName: "minimalism.png"
+imageFileName: "pharming.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"
 ---
