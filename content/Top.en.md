@@ -1,7 +1,7 @@
 ---
 header: "We're serious about changes"
 subheader: ""
-imageFileName: "header-bg1.jpg"
+imageFileName: "cloud-server-hosting.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"
 ---
