@@ -5,9 +5,7 @@ social: {
   facebook: "#",
   medium: "#"
 }
-privacyText: "プライバシー"
-privacyHref: "#!"
-termsText: "利用規約"
-termsHref: "#!"
+termsText: "Ulaanbaatar, Mongolia"
+
 ---
 
