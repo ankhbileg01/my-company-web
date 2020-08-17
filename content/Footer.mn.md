@@ -3,10 +3,9 @@ copyright: "Copyright © Start Bootstrap 2020"
 social: {
   twitter: "#",
   facebook: "#",
-  medium: "#"
+  Linkedin: "#"
 }
-privacyText: "プライバシー"
-privacyHref: "#!"
-termsText: "利用規約"
-termsHref: "#!"
+
+termsText: "Улаанбаатар, Монгол Улс"
+
 ---
