@@ -6,6 +6,6 @@ social: {
   Linkedin: "#"
 }
 
-termsText: "Ulaanbataar Mongolia"
+termsText: "Ulaanbaatar, Mongolia"
 
 ---
