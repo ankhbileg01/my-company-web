@@ -30,12 +30,7 @@ const Portfolio = ({ className, frontmatter }) => {
               subheader={subheader}
               content={content}
               imageFileNameDetail={imageFileNameDetail}
-              extraInfo={
-                <ul>
-                  {extraInfo.map((ei) => (
-                    <li key={ei}>{ei}</li>
-                  ))}
-                </ul>
+             
               }
             />
           ),
