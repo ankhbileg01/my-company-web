@@ -1,12 +1,12 @@
 ---
-copyright: "Copyright © Brim Soft LLC 2020"
+copyright: "Брим Софт 2020"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
 
-termsText: "Ulaanbaatar, Mongolia"
+termsText: "Улаанбаатар хот, Монгол улс"
 
 ---
 
