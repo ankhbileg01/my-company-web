@@ -1,5 +1,5 @@
 ---
-copyright: "Брим Софт 2020"
+copyright: "Брим Софт ХХК 2020"
 social: {
   twitter: "#",
   facebook: "#",
