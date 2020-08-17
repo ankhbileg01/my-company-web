@@ -46,8 +46,8 @@ portfolios: [
   {
     imageFileName: "portfolio/blackmagic.png",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "BlackMagicDesign",
-    subheader: "Davinchi Resolve",
+    header: "Adobe",
+    subheader: "Computer software company",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   }
