@@ -6,6 +6,6 @@ social: {
   Linkedin: "#"
 }
 
-termsText: "Улаанбаатар хот"
+termsText: "Ulaanbaatar, Mongolia"
 
 ---
