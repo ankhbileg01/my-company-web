@@ -44,7 +44,7 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
   {
-    imageFileName: "portfolio/adobe.png",
+    imageFileName: "portfolio/Adobe.png",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "BlackMagicDesign",
     subheader: "Davinchi Resolve",
