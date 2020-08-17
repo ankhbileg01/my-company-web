@@ -30,8 +30,7 @@ const Portfolio = ({ className, frontmatter }) => {
               subheader={subheader}
               content={content}
               imageFileNameDetail={imageFileNameDetail}
-             
-              }
+              
             />
           ),
         )}
