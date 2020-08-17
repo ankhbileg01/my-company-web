@@ -44,11 +44,11 @@ export const query = graphql`
           jumpToAnchorText
           menuText
           portfolios {
-            
-            
+            content
+            extraInfo
             header
             subheader
-            l
+            imageFileNameDetail
             imageFileName
           }
           
