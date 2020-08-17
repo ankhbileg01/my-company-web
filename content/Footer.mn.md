@@ -5,5 +5,8 @@ social: {
   facebook: "#",
   medium: "#"
 }
-termsText: "Улаанбаатар Монгол улс"
+privacyText: "プライバシー"
+privacyHref: "#!"
+termsText: "利用規約"
+termsHref: "#!"
 ---
