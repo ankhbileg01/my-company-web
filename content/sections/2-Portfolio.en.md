@@ -8,7 +8,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Microsoft",
     subheader: "Office 365",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "Microsoft 365 and Office 365 are cloud-based services designed to help meet your organization's needs for robust security, reliability, and user productivity.",
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
