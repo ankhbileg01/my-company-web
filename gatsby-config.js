@@ -11,9 +11,6 @@ module.exports = {
   plugins: [
 
     {
-
-    
-	
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         resolveEnv: () => NETLIFY_ENV,
@@ -35,13 +32,13 @@ module.exports = {
       }
     
 	
-	{
+	
 
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId,
       },
-    },
+    
     {
       resolve: "gatsby-plugin-manifest",
       options: {
