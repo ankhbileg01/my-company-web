@@ -13,7 +13,7 @@ module.exports = {
     {
 
     
-	{
+	
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         resolveEnv: () => NETLIFY_ENV,
@@ -33,7 +33,7 @@ module.exports = {
           }
         }
       }
-    }
+    
 	
 	{
 
