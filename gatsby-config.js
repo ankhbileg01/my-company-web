@@ -9,9 +9,9 @@ module.exports = {
     author,
   },
   plugins: [
-<<<<<<< HEAD
+
     {
-=======
+
     
 	{
       resolve: 'gatsby-plugin-robots-txt',
@@ -36,7 +36,7 @@ module.exports = {
     }
 	
 	{
->>>>>>> parent of 402175a... Update gatsby-config.js
+
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId,
