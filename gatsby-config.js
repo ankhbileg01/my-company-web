@@ -23,7 +23,7 @@ module.exports = {
         resolveEnv: () => NETLIFY_ENV,
         env: {
           production: {
-            policy: [{ userAgent: '*' }],
+            policy: [{ userAgent: '*' }]
           },
           'branch-deploy': {
             policy: [{ userAgent: '*', disallow: ['/'] }],
@@ -34,10 +34,10 @@ module.exports = {
             policy: [{ userAgent: '*', disallow: ['/'] }],
             sitemap: null,
             host: null
-          },
-        },
-      },
-    },
+          }
+        }
+      }
+    }
 	
 	{
       resolve: "gatsby-plugin-google-analytics",
