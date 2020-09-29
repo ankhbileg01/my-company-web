@@ -5,7 +5,7 @@ subheader: "Our solutions and products are backed by efficient after-sales suppo
 portfolios: [
   {
     imageFileName: "portfolio/microsoft.png",
-    imageFileNameDetail: "portfolio/01-full.jpg",
+    imageFileNameDetail: "microsoft365.jpg",
     header: "Microsoft",
     subheader: "Office 365",
     content: "Microsoft 365 and Office 365 are cloud-based services designed to help meet your organization's needs for robust security, reliability, and user productivity.",
