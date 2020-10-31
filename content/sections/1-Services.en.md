@@ -6,7 +6,7 @@ services: [
   {
     iconName: "ShoppingCartIcon",
     header: "Software",
-    content: "We provides end-to-end system integration solutions custom-designed to meet every possible business need, both now and in the future."
+    content: "We provide end-to-end system integration solutions custom-designed to meet every possible business need, both now and in the future."
   },
   {
     iconName: "LaptopIcon",

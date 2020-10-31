@@ -21,7 +21,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/grandstream.png",
-    imageFileNameDetail: "grandstreamdetail.jpg",
+    imageFileNameDetail: "grandstreamdetail.png",
     header: "Grandstream",
     subheader: "IP Voice and video",
     content: "Grandstream Networks, Inc. has been connecting the world since 2002 with SIP Unified Communications solutions that allow businesses to be more productive than ever before. Our award-winning solutions serve the small and medium business and enterprises markets and have been recognized throughout the world for their quality, reliability and innovation. Grandstream solutions lower communication costs, increase security protection and enhance productivity.",
@@ -29,7 +29,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/sangoma.png",
-    imageFileNameDetail: "sangomadetail.jpg",
+    imageFileNameDetail: "sangomadetail.png",
     header: "Sangoma",
     subheader: "Business phone system",
     content: "Sangoma’s global footprint extends to millions of customers using our products and services in leading PBX, IVR, contact center, carrier network, and data communication applications.",
