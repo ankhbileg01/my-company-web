@@ -1,6 +1,6 @@
 ---
 header: "We're serious about changes"
-subheader: ""
+subheader: "Brimsoft"
 imageFileName: "hologram.png"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"

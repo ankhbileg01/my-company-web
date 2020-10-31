@@ -28,18 +28,18 @@ portfolios: [
     extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
   },
   {
-    imageFileName: "portfolio/jabra.png",
-    imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Jabra",
-    subheader: "Business headphones",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    imageFileName: "portfolio/sangoma.png",
+    imageFileNameDetail: "sangomadetail.jpg",
+    header: "Sangoma",
+    subheader: "Business phone system",
+    content: "Sangoma’s global footprint extends to millions of customers using our products and services in leading PBX, IVR, contact center, carrier network, and data communication applications.",
     extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
   },
   {
     imageFileName: "portfolio/kaspersky.jpg",
     imageFileNameDetail: "kasperskydetail.png",
     header: "Kaspersky",
-    subheader: "Bost tested. Most awarded antivirus",
+    subheader: "Most tested. Most awarded antivirus",
     content: "Kaspersky products are regularly assessed by world-leading research firms. Stemming from this, our ability to help companies and customers protect themselves and thrive in the face of change has been widely recognized.",
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
