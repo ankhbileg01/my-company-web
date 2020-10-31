@@ -13,18 +13,18 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/extreme.png",
-    imageFileNameDetail: "portfolio/02-full.jpg",
+    imageFileNameDetail: "extremeNetworks.jpg",
     header: "Extreme Networks",
     subheader: "Router and switches",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "Since 1996, Extreme has been pushing the boundaries of networking technology, driven by a vision of making it simpler and faster as well as more agile and secure. But our higher purpose has always been helping our customers connect beyond the network… strengthening their relationships with those they serve. Today, we call that Customer-Driven Networking.",
     extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/grandstream.png",
-    imageFileNameDetail: "portfolio/03-full.jpg",
+    imageFileNameDetail: "grandstreamdetail.jpg",
     header: "Grandstream",
     subheader: "IP Voice and video",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "Grandstream Networks, Inc. has been connecting the world since 2002 with SIP Unified Communications solutions that allow businesses to be more productive than ever before. Our award-winning solutions serve the small and medium business and enterprises markets and have been recognized throughout the world for their quality, reliability and innovation. Grandstream solutions lower communication costs, increase security protection and enhance productivity.",
     extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
   },
   {
@@ -37,18 +37,18 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/sangoma.png",
-    imageFileNameDetail: "portfolio/05-full.jpg",
+    imageFileNameDetail: "sangomadetail.jpg",
     header: "Sangoma",
     subheader: "Business phone system",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "Sangoma’s global footprint extends to millions of customers using our products and services in leading PBX, IVR, contact center, carrier network, and data communication applications.",
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
   {
-    imageFileName: "portfolio/blackmagic.png",
-    imageFileNameDetail: "portfolio/06-full.jpg",
+    imageFileName: "portfolio/Adobe.png",
+    imageFileNameDetail: "portfolio/adobedetail.png",
     header: "Adobe",
     subheader: "Computer software company",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "Creativity is in our DNA. Our game-changing innovations are redefining the possibilities of digital experiences. We connect content and data and introduce new technologies that democratize creativity, shape the next generation of storytelling, and inspire entirely new categories of business.",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   }
 ]
