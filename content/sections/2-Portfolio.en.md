@@ -5,10 +5,10 @@ subheader: "Our solutions and products are backed by efficient after-sales suppo
 portfolios: [
   {
     imageFileName: "portfolio/microsoft.png",
-    imageFileNameDetail: "microsoft365.jpg",
+    imageFileNameDetail: "microsoft365.png",
     header: "Microsoft",
-    subheader: "Office 365",
-    content: "Microsoft 365 and Office 365 are cloud-based services designed to help meet your organization's needs for robust security, reliability, and user productivity.Microsoft Office 365 is a suite of cloud-based productivity and collaboration applications that integrates all Microsoft’s existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication and collaboration applications.",
+    subheader: "Microsoft 365",
+    content: "Microsoft 365 ( formerly Office 365 ) is cloud-based services designed to help meet your organization's needs for robust security, reliability, and user productivity.Microsoft 365 is a suite of cloud-based productivity and collaboration applications that integrates all Microsoft’s existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication and collaboration applications.",
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
