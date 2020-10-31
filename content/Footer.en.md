@@ -1,9 +1,8 @@
 ---
 copyright: "Copyright © Brim Soft LLC 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  Linkedin: "#"
+  facebook: "https://www.facebook.com/brimsoft",
+  Linkedin: "https://www.linkedin.com/company/brimsoft"
 }
 
 termsText: "Ulaanbaatar, Mongolia"
