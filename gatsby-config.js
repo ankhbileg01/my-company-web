@@ -3,9 +3,9 @@ const { title, keywords, description, author, defaultLang, trackingId } = requir
 
 module.exports = {
   siteMetadata: {
-    title:"Brim Soft",
+    title:"Top",
     keywords,
-    description: "Hogwarts Potions master, Head of Slytherin house and former Death Eater.",
+    description: "We provide end-to-end system integration solutions custom-designed to meet every possible business need, both now and in the future.",
     author,
   },
   plugins: [
